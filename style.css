@@ -60,3 +60,7 @@ div.jumbotron{
 div.jumbotron h1{
   font-size: 60px;
 }
+
+div.jumbotron a{
+  font-size: 20px;
+}
